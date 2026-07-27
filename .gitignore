@@ -1,0 +1,10 @@
+.env
+firebase-adminsdk.json
+ssh.key
+test-bot.py
+trade-bot.py
+wo-firebase.py
+
+__pycache__/
+*.pyc
+*.pyo
